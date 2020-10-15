@@ -2,9 +2,9 @@
 
 This website is an implementation of various algorithms which are needed while learning Python .
 Certain Algorithms which are required:-
-1. [Stack]({{site.github.url}}/algos/stack.py)
-2. [Queues]({{site.github.url}}/algos/queue.py)
-3. [Lists]({{site.github.url}}/algos/list.py)
+1. [Stack]({{site.github.url}}/algos/)
+2. [Queues]({{site.github.url}}/algos/)
+3. [Lists]({{site.github.url}}/algos/)
 4. [Dictionaries]()
 5. [Linked lists]()
 6. [Trees]()
